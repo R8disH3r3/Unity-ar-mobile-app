@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WelcomeScene.unity
+    guid: 4afcc17e5d4e2164aac660c9d9ac1276
+  - enabled: 1
+    path: Assets/Scenes/TutorialOptionScene.unity
+    guid: fb9984e80e26de04bbde7a02f0842a6e
+  - enabled: 1
+    path: Assets/Scenes/OnboardingSlide1.unity
+    guid: bc249e6746bb87f458c27a83a163eac0
+  - enabled: 1
+    path: Assets/Scenes/OnboardingSlide2.unity
+    guid: 848e16320f196954c98769feadcf5a7a
+  - enabled: 1
+    path: Assets/Scenes/OnboardingSlide3.unity
+    guid: 2f16ef5773ac6e74e8c0a2a92206b970
+  - enabled: 1
+    path: Assets/Scenes/OnboardingSlide4.unity
+    guid: 74250b40d32960545b42b0ceeedc8dbb
+  - enabled: 1
+    path: Assets/Scenes/TrafficRulesScene.unity
+    guid: 0c09954c515e0c04797e43193af1dd4f
+  - enabled: 1
+    path: Assets/Scenes/TjunctionScene.unity
+    guid: f02b7a8a74194c74f988b283fefdcfc7
+  - enabled: 1
+    path: Assets/Scenes/DistanceScene.unity
+    guid: fa9d5d59b20343a4f89cf3ed23a3b87f
+  - enabled: 1
+    path: Assets/Scenes/Roundabout 2 lane.unity
+    guid: 51c1f56f4ff427744a60113a2eac3e64
+  - enabled: 1
+    path: Assets/Scenes/Roundabout 3 lane.unity
+    guid: cbe4a12b95c8e70489c97c3ca3e8f0d7
+  m_configObjects:
+    EasyAR.Settings: {fileID: 11400000, guid: 5d8d6e0a485961644854fff490f2b82f, type: 2}
